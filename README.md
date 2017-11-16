@@ -12,3 +12,6 @@ Demo合集
 [NDK-JNI实战教程二中文资料](http://blog.csdn.net/yanbober/article/details/45310365)
 [NDK-JNI实战教程三](http://blog.csdn.net/yanbober/article/details/45310589)
 
+4、GlideProgressTest
+[带进度的Glide图片加载功能](http://http://blog.csdn.net/guolin_blog/article/details/78357251)
+

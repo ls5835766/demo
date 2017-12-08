@@ -13,5 +13,12 @@ Demo合集
 [NDK-JNI实战教程三](http://blog.csdn.net/yanbober/article/details/45310589)
 
 4、GlideProgressTest
-[带进度的Glide图片加载功能](http://http://blog.csdn.net/guolin_blog/article/details/78357251)
+[带进度的Glide图片加载功能](http://blog.csdn.net/guolin_blog/article/details/78357251)
+
+5、自定义View  CustomView
+[自定义View](http://blog.csdn.net/lmj623565791/article/details/24252901)
+
+6、BindService 服务绑定
+调用服务里面的方法
+
 

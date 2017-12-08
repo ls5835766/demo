@@ -1,0 +1,21 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:custom="http://schemas.android.com/apk/res/com.zhangy.customview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <!--<com.zhangy.customview.CustomTitleView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--custom:titleText="3712"-->
+        <!--custom:titleTextColor="#ff0000"-->
+        <!--custom:titleTextSize="40sp" />-->
+
+    <com.zhangy.customview.CustomTextView
+        android:id="@+id/tobarclick"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:text="TobarTest"
+        android:textSize="16sp"/>
+
+</RelativeLayout>

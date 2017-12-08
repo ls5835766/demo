@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:custom="http://schemas.android.com/apk/res/com.zhangy.customview"
+    android:id="@+id/activity_tobar"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.zhangy.customview.TobarActivity">
+
+    <com.zhangy.customview.CustomTobar
+        android:id="@+id/topBar"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        custom:tb_leftbackground="@mipmap/ic_launcher"
+        custom:tb_leftText="Back"
+        custom:tb_leftTextColor="#FFFFFF"
+        custom:tb_rightbackground="@mipmap/ic_launcher"
+        custom:tb_rightText="More"
+        custom:tb_rightTextColor="#FFFFFF"
+        custom:tb_title="自定义标题"
+        custom:tb_titleTextColor="#123412"
+        custom:tb_titleTextSize="10sp"/>
+
+
+</RelativeLayout>

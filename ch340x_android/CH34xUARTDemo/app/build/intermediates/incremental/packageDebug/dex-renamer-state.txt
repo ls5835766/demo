@@ -1,0 +1,7 @@
+#Fri Jan 05 16:18:14 CST 2018
+base.0=E\:\\workspace\\android\\CH34xUARTDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_de10335e0f721373db7f97975601c516a13a299d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\workspace\\android\\CH34xUARTDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d6aa44231dc70ed27d27e0078c1922de4878cab9\\classes.dex
+base.1=E\:\\workspace\\android\\CH34xUARTDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d6aa44231dc70ed27d27e0078c1922de4878cab9
+file.0=E\:\\workspace\\android\\CH34xUARTDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_de10335e0f721373db7f97975601c516a13a299d\\classes.dex

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\workspace\android\CH34xUARTDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_ae51cd7271d68d7414781f62c530907cb861ea23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\android\CH34xUARTDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1154c1a6eb2d14064cb856eedcec5308476df304">
+        <dex dex="E:\workspace\android\CH34xUARTDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d6aa44231dc70ed27d27e0078c1922de4878cab9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\android\CH34xUARTDemo\app\libs\CH34xUARTDriver.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="63caf7b5df37037a568ce80c3d03a5b4fb22ccf9">
+        <dex dex="E:\workspace\android\CH34xUARTDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\CH34xUARTDriver_b94807d61980d130e6fd7147a6f64c7d7d517081\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workspace\android\CH34xUARTDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="08e4270821c6f11179f483f0308f86ed08f336a4">
+        <dex dex="E:\workspace\android\CH34xUARTDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_de10335e0f721373db7f97975601c516a13a299d\classes.dex" />
+    </item>
+
+</items>

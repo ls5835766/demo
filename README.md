@@ -23,3 +23,4 @@ Demo合集
 
 7、mvp_rxjava_retifit 项目demo
 
+8、ch34x与android通讯，消除usb权限

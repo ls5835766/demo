@@ -24,3 +24,11 @@ Demo合集
 7、mvp_rxjava_retifit 项目demo
 
 8、ch34x与android通讯，消除usb权限
+
+9、AndroidM_fingerPassDemo系统指纹demo
+
+10、bilibili项目实现
+
+11、SwipeRefreshDemo中item侧滑置顶和删除
+
+12、AudioTest百度语音识别

@@ -21,4 +21,5 @@ Demo合集
 6、BindService 服务绑定
 调用服务里面的方法
 
+7、mvp_rxjava_retifit 项目demo
 

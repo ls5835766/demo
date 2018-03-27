@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\zhangy\\Desktop\\PopupWindow1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\purchase_popup_window.xml",
+        "source": "C:\\Users\\zhangy\\Desktop\\PopupWindow1\\app\\src\\main\\res\\layout\\purchase_popup_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangy\\Desktop\\PopupWindow1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_window.xml",
+        "source": "C:\\Users\\zhangy\\Desktop\\PopupWindow1\\app\\src\\main\\res\\layout\\activity_main_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangy\\Desktop\\PopupWindow1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_custom_grid_item.xml",
+        "source": "C:\\Users\\zhangy\\Desktop\\PopupWindow1\\app\\src\\main\\res\\layout\\home_custom_grid_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangy\\Desktop\\PopupWindow1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\purchase_gridview.xml",
+        "source": "C:\\Users\\zhangy\\Desktop\\PopupWindow1\\app\\src\\main\\res\\layout\\purchase_gridview.xml"
+    }
+]

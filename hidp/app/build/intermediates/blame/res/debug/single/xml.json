@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\workspace\\android\\hidp\\app\\build\\intermediates\\res\\merged\\debug\\xml\\setting_online.xml",
+        "source": "E:\\workspace\\android\\hidp\\app\\src\\main\\res\\xml\\setting_online.xml"
+    },
+    {
+        "merged": "E:\\workspace\\android\\hidp\\app\\build\\intermediates\\res\\merged\\debug\\xml\\setting_offline.xml",
+        "source": "E:\\workspace\\android\\hidp\\app\\src\\main\\res\\xml\\setting_offline.xml"
+    },
+    {
+        "merged": "E:\\workspace\\android\\hidp\\app\\build\\intermediates\\res\\merged\\debug\\xml\\setting_all.xml",
+        "source": "E:\\workspace\\android\\hidp\\app\\src\\main\\res\\xml\\setting_all.xml"
+    },
+    {
+        "merged": "E:\\workspace\\android\\hidp\\app\\build\\intermediates\\res\\merged\\debug\\xml\\setting_nlu.xml",
+        "source": "E:\\workspace\\android\\hidp\\app\\src\\main\\res\\xml\\setting_nlu.xml"
+    }
+]

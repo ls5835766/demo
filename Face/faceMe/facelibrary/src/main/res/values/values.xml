@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2017 Baidu, Inc. All Rights Reserved.
+  -->
+<resources>
+    <color name="item_main_color">#ffffff</color>
+    <color name="item_main_color_selected">#63B8FF</color>
+    <color name="item_main_text_color">#63B8FF</color>
+    <color name="item_main_text_color_selected">#ffffff</color>
+    <string name="common_confirm">确定</string>
+    <string name="common_title">Face Recognition</string>
+    <string name="detect_face_in">把脸移入框内</string>
+    <string name="detect_general_tips4">请正对屏幕</string>
+    <string name="detect_general_tips5">请不要动</string>
+    <string name="detect_head_down">头低一点</string>
+    <string name="detect_head_left">向左转转</string>
+    <string name="detect_head_right">向右转转</string>
+    <string name="detect_head_up">头抬高些</string>
+    <string name="detect_keep">请保持不动</string>
+    <string name="detect_low_light">光线再亮些</string>
+    <string name="detect_no_face">把脸移入框内</string>
+    <string name="detect_occ_chin">下颚有遮挡</string>
+    <string name="detect_occ_eye_left">左眼有遮挡</string>
+    <string name="detect_occ_eye_right">右眼有遮挡</string>
+    <string name="detect_occ_face">脸部有遮挡</string>
+    <string name="detect_occ_face_left">左侧脸颊有遮挡</string>
+    <string name="detect_occ_face_right">右侧脸颊有遮挡</string>
+    <string name="detect_occ_mouth">嘴巴有遮挡</string>
+    <string name="detect_occ_nose">鼻子有遮挡</string>
+    <string name="detect_zoom_in">再靠近一点儿</string>
+    <string name="detect_zoom_out">请离远一点儿</string>
+    <string name="liveness_eye">眨眨眼</string>
+    <string name="liveness_eye_left">请眨眨左边眼睛</string>
+    <string name="liveness_eye_right">请眨眨右边眼睛</string>
+    <string name="liveness_good">非常好</string>
+    <string name="liveness_head_down">向下低头</string>
+    <string name="liveness_head_left">向左摇头</string>
+    <string name="liveness_head_right">向右摇头</string>
+    <string name="liveness_head_up">向上抬头</string>
+    <string name="liveness_mouth">张大嘴</string>
+    <string name="liveness_success">验证成功</string>
+    <string name="net_connection_error">网络连接错误，请检查设置</string>
+    <string name="net_default_error">网络请求失败</string>
+    <string name="net_timeout_error">网络连接超时，请检查设置</string>
+    <string name="recognition_name">%1$s, 您好!</string>
+    <string name="recognition_success">刷脸成功!</string>
+    <string name="register_btn_text">确定</string>
+    <string name="register_name_hint">请输入用户名</string>
+    <string name="register_tips1">你输入的ID已存在，请重新输入</string>
+    <string name="register_tips2">请输入用户名</string>
+    <string name="register_title">请输入您的ID</string>
+    <string name="takephoto_loading">正在处理中...</string>
+    <string name="takephoto_register_success_confirm">我知道了</string>
+    <string name="takephoto_register_success_details">恭喜您已经成功注册人脸，它将作为\n识别您的新ID。</string>
+    <string name="takephoto_register_success_title">人脸注册成功!</string>
+    <style name="DefaultDialog" parent="android:style/Theme.Dialog">
+        <item name="android:background">#00000000</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+</resources>

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\workspace\\android\\hidp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bdspeech_help_pressed_deep.png",
+        "source": "E:\\workspace\\android\\hidp\\app\\src\\main\\res\\drawable-hdpi\\bdspeech_help_pressed_deep.png"
+    },
+    {
+        "merged": "E:\\workspace\\android\\hidp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bdspeech_mask_deep.png",
+        "source": "E:\\workspace\\android\\hidp\\app\\src\\main\\res\\drawable-hdpi\\bdspeech_mask_deep.png"
+    },
+    {
+        "merged": "E:\\workspace\\android\\hidp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bdspeech_help_light.png",
+        "source": "E:\\workspace\\android\\hidp\\app\\src\\main\\res\\drawable-hdpi\\bdspeech_help_light.png"
+    },
+    {
+        "merged": "E:\\workspace\\android\\hidp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bdspeech_close_v2.png",
+        "source": "E:\\workspace\\android\\hidp\\app\\src\\main\\res\\drawable-hdpi\\bdspeech_close_v2.png"
+    },
+    {
+        "merged": "E:\\workspace\\android\\hidp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bdspeech_mask_light.png",
+        "source": "E:\\workspace\\android\\hidp\\app\\src\\main\\res\\drawable-hdpi\\bdspeech_mask_light.png"
+    },
+    {
+        "merged": "E:\\workspace\\android\\hidp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bdspeech_help_deep.png",
+        "source": "E:\\workspace\\android\\hidp\\app\\src\\main\\res\\drawable-hdpi\\bdspeech_help_deep.png"
+    },
+    {
+        "merged": "E:\\workspace\\android\\hidp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bdspeech_help_pressed_light.png",
+        "source": "E:\\workspace\\android\\hidp\\app\\src\\main\\res\\drawable-hdpi\\bdspeech_help_pressed_light.png"
+    }
+]

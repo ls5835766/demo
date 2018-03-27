@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\workspace\\android\\hidp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bd_asr_wave.png",
+        "source": "E:\\workspace\\android\\hidp\\app\\src\\main\\res\\drawable-xhdpi\\bd_asr_wave.png"
+    },
+    {
+        "merged": "E:\\workspace\\android\\hidp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "E:\\workspace\\android\\hidp\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\workspace\\android\\hidp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bd_asr_mic.png",
+        "source": "E:\\workspace\\android\\hidp\\app\\src\\main\\res\\drawable-xhdpi\\bd_asr_mic.png"
+    }
+]

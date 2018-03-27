@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_item"
+    android:layout_width="85dp"
+    android:layout_height="40dp" >
+
+    <TextView
+        android:id="@+id/tv_intent_iconname"
+        android:layout_width="75dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center_vertical"
+        android:layout_margin="7dp"
+        android:background="@drawable/sl_tab1"
+        android:gravity="center"
+        android:singleLine="true"
+        android:ellipsize="end"
+        android:text="我要卖房"
+        android:textSize="13sp" />
+
+    <ImageView
+        android:id="@+id/iv_delete_item"
+        android:layout_width="22dp"
+        android:layout_height="22dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:paddingBottom="3dp"
+        android:paddingLeft="3dp"
+        android:paddingRight="1dp"
+        android:paddingTop="1dp"
+        android:src="@drawable/close"
+        android:visibility="gone" />
+
+</RelativeLayout>

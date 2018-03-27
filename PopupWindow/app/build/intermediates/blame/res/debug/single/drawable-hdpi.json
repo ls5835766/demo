@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\zhangy\\Desktop\\PopupWindow1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\zhangy\\Desktop\\PopupWindow1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangy\\Desktop\\PopupWindow1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zhun_n.9.png",
+        "source": "C:\\Users\\zhangy\\Desktop\\PopupWindow1\\app\\src\\main\\res\\drawable-hdpi\\zhun_n.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangy\\Desktop\\PopupWindow1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zhun_s.9.png",
+        "source": "C:\\Users\\zhangy\\Desktop\\PopupWindow1\\app\\src\\main\\res\\drawable-hdpi\\zhun_s.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangy\\Desktop\\PopupWindow1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\close.png",
+        "source": "C:\\Users\\zhangy\\Desktop\\PopupWindow1\\app\\src\\main\\res\\drawable-hdpi\\close.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangy\\Desktop\\PopupWindow1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\iv_close_customization.png",
+        "source": "C:\\Users\\zhangy\\Desktop\\PopupWindow1\\app\\src\\main\\res\\drawable-hdpi\\iv_close_customization.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangy\\Desktop\\PopupWindow1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search_his.png",
+        "source": "C:\\Users\\zhangy\\Desktop\\PopupWindow1\\app\\src\\main\\res\\drawable-hdpi\\search_his.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangy\\Desktop\\PopupWindow1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\triangle_1.png",
+        "source": "C:\\Users\\zhangy\\Desktop\\PopupWindow1\\app\\src\\main\\res\\drawable-hdpi\\triangle_1.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangy\\Desktop\\PopupWindow1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_red_p.9.png",
+        "source": "C:\\Users\\zhangy\\Desktop\\PopupWindow1\\app\\src\\main\\res\\drawable-hdpi\\btn_red_p.9.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangy\\Desktop\\PopupWindow1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_red_n.9.png",
+        "source": "C:\\Users\\zhangy\\Desktop\\PopupWindow1\\app\\src\\main\\res\\drawable-hdpi\\btn_red_n.9.png"
+    }
+]

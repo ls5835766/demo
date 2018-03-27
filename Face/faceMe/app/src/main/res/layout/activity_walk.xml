@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/connect"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="连接Socket" />
+
+        <Button
+            android:id="@+id/disconnect"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="断开Socket" />
+
+        <TextView
+            android:id="@+id/receive_message"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+
+        <Button
+            android:id="@+id/robot_status_info_req_send"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="机器人信息"/>
+
+        <Button
+            android:id="@+id/robot_status_mode_req_send"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="机器人运行模式"/>
+
+        <Button
+            android:id="@+id/robot_status_loc_req_send"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="取当前坐标"/>
+
+        <Button
+            android:id="@+id/robot_status_block_req_send"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="取障碍物信息"/>
+
+        <Button
+            android:id="@+id/robot_status_task_req_send"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="查询任务状态"/>
+
+
+        <Button
+            android:id="@+id/robot_task_turn_req_send"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="旋转"/>
+
+        <Button
+            android:id="@+id/robot_task_patrol_req_send"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="巡检"/>
+
+        <Button
+            android:id="@+id/robot_task_gopoint_req_send"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="自由导航"/>
+
+        <Button
+            android:id="@+id/robot_task_gotarget_req_send"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="固定导航"/>
+
+        <Button
+            android:id="@+id/robot_task_chg_req_send"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="充电"/>
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\zhangy\\Desktop\\PopupWindow1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_selector_gray.xml",
+        "source": "C:\\Users\\zhangy\\Desktop\\PopupWindow1\\app\\src\\main\\res\\drawable\\list_item_selector_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangy\\Desktop\\PopupWindow1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_sub.xml",
+        "source": "C:\\Users\\zhangy\\Desktop\\PopupWindow1\\app\\src\\main\\res\\drawable\\btn_sub.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangy\\Desktop\\PopupWindow1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_submit_red.xml",
+        "source": "C:\\Users\\zhangy\\Desktop\\PopupWindow1\\app\\src\\main\\res\\drawable\\btn_submit_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangy\\Desktop\\PopupWindow1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sl_tab1.xml",
+        "source": "C:\\Users\\zhangy\\Desktop\\PopupWindow1\\app\\src\\main\\res\\drawable\\sl_tab1.xml"
+    }
+]

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:id="@+id/liveness_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#a0000000"></FrameLayout>
+
+    <RelativeLayout
+        android:id="@+id/liveness_request_result_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#000000"
+        android:visibility="gone">
+
+        <ImageView
+            android:id="@+id/liveness_request_image"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop" />
+
+        <View
+            android:id="@+id/liveness_request_imageoverlay"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#ffffff" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/liveness_loading_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#000000"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/liveness_loading_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="10dp"
+            android:gravity="bottom|center"
+            android:text="@string/takephoto_loading"
+            android:textColor="#B7B7B7"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/liveness_loading_image"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_above="@id/liveness_loading_text"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="15dp"
+            android:background="@drawable/bg_loading"
+            android:scaleType="centerInside" />
+    </RelativeLayout>
+</RelativeLayout>

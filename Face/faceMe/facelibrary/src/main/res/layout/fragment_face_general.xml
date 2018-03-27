@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/general_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:id="@+id/general_surface_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></FrameLayout>
+
+    <ImageView
+        android:id="@+id/general_surface_overlay_image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:background="@mipmap/bg_face_round" />
+
+    <ImageView
+        android:id="@+id/general_surface_overlay"
+        android:layout_width="340dp"
+        android:layout_height="390dp"
+        android:layout_centerInParent="true"
+        android:background="#09ffffff"
+        android:visibility="invisible" />
+
+    <com.baidu.idl.face.platform.ui.widget.FaceTrackerOverlayView
+        android:id="@+id/general_canvas"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="invisible" />
+    <!-- android:background="@drawable/bg_rect_overlay" -->
+
+    <ImageView
+        android:id="@+id/general_close"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_margin="15dp"
+        android:background="@mipmap/ic_close_hl" />
+
+    <ImageView
+        android:id="@+id/general_sound"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentRight="true"
+        android:layout_margin="20dp" />
+
+    <TextView
+        android:id="@+id/general_tips"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="90dp"
+        android:gravity="center"
+        android:text=""
+        android:textColor="#00E5EE"
+        android:textSize="18sp" />
+
+</RelativeLayout>

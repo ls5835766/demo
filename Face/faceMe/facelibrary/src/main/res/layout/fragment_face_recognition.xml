@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/recognition_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:id="@+id/recognition_surface_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#a0000000"></FrameLayout>
+
+    <ImageView
+        android:id="@+id/recognition_surface_overlay"
+        android:layout_width="210dp"
+        android:layout_height="260dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:background="@drawable/bg_rect_overlay" />
+
+    <ImageView
+        android:id="@+id/recognition_close"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_margin="15dp"
+        android:background="@mipmap/ic_close_hl" />
+
+    <ImageView
+        android:id="@+id/recognition_sound"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_alignParentRight="true"
+        android:layout_margin="15dp"
+        android:background="#ffffff" />
+
+    <TextView
+        android:id="@+id/recognition_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:gravity="center"
+        android:textColor="#00E5EE"
+        android:textSize="21sp" />
+
+    <TextView
+        android:id="@+id/recognition_tips"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/recognition_surface_overlay"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:gravity="center"
+        android:text="@string/detect_face_in"
+        android:textColor="#ffffff"
+        android:textSize="16sp" />
+</RelativeLayout>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/pad_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:id="@+id/pad_surface_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></FrameLayout>
+
+    <ImageView
+        android:id="@+id/pad_surface_overlay"
+        android:layout_width="300dp"
+        android:layout_height="380dp"
+        android:layout_centerInParent="true"
+        android:background="#a0ffffff"
+        android:visibility="invisible" />
+
+    <ImageView
+        android:id="@+id/pad_surface_render_image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#D1D1D1"
+        android:scaleType="centerInside"
+        android:visibility="gone" />
+
+    <com.baidu.idl.face.platform.ui.widget.FacePadOverlayView
+        android:id="@+id/pad_canvas"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="150dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="30dp"
+        android:visibility="invisible" />
+
+    <ImageView
+        android:id="@+id/pad_close"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_margin="115dp"
+        android:background="@mipmap/ic_close_hl" />
+
+    <TextView
+        android:id="@+id/pad_tips"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="90dp"
+        android:gravity="center"
+        android:text=""
+        android:textColor="#00E5EE"
+        android:textSize="18sp" />
+
+</RelativeLayout>

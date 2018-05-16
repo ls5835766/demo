@@ -36,3 +36,5 @@ Demo合集
 13.DialogDemo实现弹出框
 
 13、DragExpandGrid-master实现gradview嵌套展开
+
+14、关于Android加载状态视图切换   https://www.jianshu.com/p/9effacccdee9
